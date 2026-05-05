@@ -18,19 +18,19 @@ The database consists of 5 related tables: `accounts`, `orders`, `sales_reps`, `
 
 ##  Key Insights & Recommendations
 
-**1. High-Traffic Conversion Success (Section D2)**
+**1. High-Traffic Conversion Success**
 * **Insight:** All accounts with more than 20 web events successfully placed at least two orders. There is a 100% conversion rate among high-traffic website visitors.
 * **Recommendation:** Stop spending ad money on people who already visit the site. Instead, put the entire marketing budget into campaigns that attract brand-new visitors.
 
-**2. The Retention Risk (Section C5)**
+**2. The Retention Risk**
 * **Insight:** 18 distinct accounts (including major companies like Delta Air Lines and CBS) placed exactly one order and never returned.
 * **Recommendation:** Implement a mandatory 30-day post-purchase follow-up for first-time buyers to improve retention and reduce churn.
 
-**3. Volume vs. Efficiency in Sales (Section D3 & A2)**
+**3. Volume vs. Efficiency in Sales**
 * **Insight:** While Earlie Schleusner generated the highest total revenue ($1.09M across 11 accounts), Cordell Rieder is the most efficient rep, averaging roughly $149k per account across just 3 accounts.
 * **Recommendation:** Cross-train the sales team on Cordell’s upselling strategies. Consider rebalancing account loads so highly efficient reps can manage more clients.
 
-**4. The Midwest Regional Gap (Section B1)**
+**4. The Midwest Regional Gap**
 * **Insight:** There is a massive revenue gap between regions. The Northeast dominates with $7.74M in total revenue, while the Midwest severely lags behind at $3.01M. 
 * **Recommendation:** Audit the Midwest territory to figure out why they are $4.7M behind. Determine if the gap is due to a smaller market size, lower headcount, or ineffective sales leadership.
 
